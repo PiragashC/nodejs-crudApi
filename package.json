@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-crud-api",
+  "version": "1.0.0",
+  "description": "This is nodejs crud api project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Piragash",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
